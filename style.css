@@ -1,0 +1,20 @@
+html {
+  background-color: #D17DE2; /* Out side of Border Color in remaining part of browser */
+}
+Body {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #33BFC6; /* Out side of Border Color in remaining part of browser */
+  padding: 20px 40px 190px 90px; /* Padding inside the BOX area of width , Hightand Length */
+  border: 15px solid blue;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #F3F0F3;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
